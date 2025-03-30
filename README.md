@@ -9,7 +9,7 @@ Este repositório contém os 11 exercícios práticos da apostila **\"Introduç�
 
 ##  Estrutura dos Exercícios
 
-| Nº  | Pasta                                 | Descrição                                          | Status         |
+|   | ARQUIVO                                | Descrição                                          | Status         |
 |-----|----------------------------------------|----------------------------------------------------|----------------|
 | 01  | Exercicio_01_calculadora_de_triplo\   | Calculadora de triplo com Tkinter                 |  Concluído    |
 | 02  | Exercicio_02_calculadora_de_media\    | Calculadora de média com validação                |  Concluído    |
@@ -25,12 +25,12 @@ Este repositório contém os 11 exercícios práticos da apostila **\"Introduç�
 
 ---
 
-##  Como executar
+#  Como executar
 
-\\\Bash
-# Na pasta do exercício desejado
+
+# Na Pasta do exercício desejado
 python nome_do_arquivo.py
-\\\
+\\
 
 ---
 
