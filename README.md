@@ -11,23 +11,23 @@ Este repositório contém os 11 exercícios práticos da apostila **\"Introduç�
 
 | Nº  | Pasta                                 | Descrição                                          | Status         |
 |-----|----------------------------------------|----------------------------------------------------|----------------|
-| 01  | xercicio_01_calculadora_de_triplo\   | Calculadora de triplo com Tkinter                 |  Concluído    |
-| 02  | xercicio_02_calculadora_de_media\    | Calculadora de média com validação                |  Concluído    |
-| 03  | xercicio_03_formulario\              | Mini-formulário: nome, e-mail, preferência        |  Concluído    |
-| 04  | xercicio_04_layouts\                 | Layouts: Grid, Pack e Place                       |  Concluído    |
-| 05  | xercicio_05_eventos\                 | Eventos do mouse, teclado e contador              |  Em breve     |
-| 06  | xercicio_06_validacoes\              | Validação de entradas                             |  Em breve     |
-| 07  | xercicio_07_arquivos\                | Manipulação de arquivos (tarefas e CSV)           |  Em breve     |
-| 08  | xercicio_08_mysql\                   | Integração com MySQL + interface                  |  Em breve     |
-| 09  | xercicio_09_cadastro_produtos\       | Formulário com validação                          |  Em breve     |
-| 10  | xercicio_10_listagens\               | Combobox, filtros e paginação                     |  Em breve     |
-| 11  | xercicio_11_relatorios\              | Exportação de dados e visualização tabular        |  Em breve     |
+| 01  | Exercicio_01_calculadora_de_triplo\   | Calculadora de triplo com Tkinter                 |  Concluído    |
+| 02  | Exercicio_02_calculadora_de_media\    | Calculadora de média com validação                |  Concluído    |
+| 03  | Exercicio_03_formulario\              | Mini-formulário: nome, e-mail, preferência        |  Concluído    |
+| 04  | Exercicio_04_layouts\                 | Layouts: Grid, Pack e Place                       |  Concluído    |
+| 05  | Exercicio_05_eventos\                 | Eventos do mouse, teclado e contador              |  Em breve     |
+| 06  | Exercicio_06_validacoes\              | Validação de entradas                             |  Em breve     |
+| 07  | Exercicio_07_arquivos\                | Manipulação de arquivos (tarefas e CSV)           |  Em breve     |
+| 08  | Exercicio_08_mysql\                   | Integração com MySQL + interface                  |  Em breve     |
+| 09  | Exercicio_09_cadastro_produtos\       | Formulário com validação                          |  Em breve     |
+| 10  | Exercicio_10_listagens\               | Combobox, filtros e paginação                     |  Em breve     |
+| 11  | Exercicio_11_relatorios\              | Exportação de dados e visualização tabular        |  Em breve     |
 
 ---
 
 ##  Como executar
 
-\\\ash
+\\\Bash
 # Na pasta do exercício desejado
 python nome_do_arquivo.py
 \\\
